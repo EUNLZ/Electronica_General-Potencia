@@ -1,0 +1,7 @@
+Este proyecto se puede ejecutar con las 3 versiones de programa:
+
+1- Sin Delay: invierte sentido de giro al presionar Switch.
+
+2- Con Delay: agrega delay de 1 segundo al invertir sentido de giro.
+
+3- Con Condicion inicial Mas Delay: sea cual fuere la condicion inicial del switch, agregar 1 segundo de espera al energizar Arduino.
