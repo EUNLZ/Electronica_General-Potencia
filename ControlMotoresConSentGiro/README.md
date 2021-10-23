@@ -1,9 +1,8 @@
 # Lectura de señal analogica
 
-Codigo simple de arduni utilizado las funciones de arfuino IDE, para generar una lectura de una señal analogica
-
-  Leo una entrada analógica con el conversor AD.
-  Se utiliza el port serie para transmitir los valores correspondientes.
+  Control de motor por PWM.
+  Uso funcion digitalWrite para controlar el Enable.
+  El sentido de giro lo controla el micro con una llave externa conectada a una entrada del micro
 
 
  1. Uso de funciones:
@@ -16,6 +15,6 @@ Codigo simple de arduni utilizado las funciones de arfuino IDE, para generar una
 ## Hojas de datos e informacion importe
 
   - [Datasheet Atmega328p](https://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7810-Automotive-Microcontrollers-ATmega328P_Datasheet.pdf).
-  - [funcion map](https://en.wikipedia.org/wiki/Map_(higher-order_function)).
+  - [Datasheet L298](https://www.st.com/resource/en/datasheet/l298.pdf)
 
  
